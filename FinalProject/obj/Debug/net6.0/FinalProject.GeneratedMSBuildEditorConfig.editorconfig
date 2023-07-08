@@ -1,0 +1,225 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FinalProject
+build_property.RootNamespace = FinalProject
+build_property.ProjectDir = C:\Users\M\Desktop\錄影\FinalProject (0329修正)\FinalProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\M\Desktop\錄影\FinalProject (0329修正)\FinalProject
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXEN1c3RvbWVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/OrderDetail/OrderDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXE9yZGVyRGV0YWlsXE9yZGVyRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/ProductReport/ProductReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXFByb2R1Y3RSZXBvcnRcUHJvZHVjdFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/ProductReview/ProductReview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXFByb2R1Y3RSZXZpZXdcUHJvZHVjdFJldmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/ProductSet/ProductSet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXFByb2R1Y3RTZXRcUHJvZHVjdFNldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXFByb2R1Y3RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXFByb2R1Y3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/ShoppingCart/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXFNob3BwaW5nQ2FydFxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Coupon/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXENvdXBvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Coupon/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXENvdXBvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Coupon/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXENvdXBvblxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/CustomerOrderSheet/DetailsCanceled.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEN1c3RvbWVyT3JkZXJTaGVldFxEZXRhaWxzQ2FuY2VsZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/CustomerOrderSheet/DetailsChecked.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEN1c3RvbWVyT3JkZXJTaGVldFxEZXRhaWxzQ2hlY2tlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/CustomerOrderSheet/DetailsUnchecked.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEN1c3RvbWVyT3JkZXJTaGVldFxEZXRhaWxzVW5jaGVja2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/CustomerOrderSheet/ListCanceled.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEN1c3RvbWVyT3JkZXJTaGVldFxMaXN0Q2FuY2VsZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/CustomerOrderSheet/ListChecked.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEN1c3RvbWVyT3JkZXJTaGVldFxMaXN0Q2hlY2tlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/CustomerOrderSheet/ListUnchecked.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEN1c3RvbWVyT3JkZXJTaGVldFxMaXN0VW5jaGVja2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEN1c3RvbWVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEN1c3RvbWVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEN1c3RvbWVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Customer/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEN1c3RvbWVyXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEhvbWVcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/ManagerReport/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXE1hbmFnZXJSZXBvcnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/ManagerReport/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXE1hbmFnZXJSZXBvcnRcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/ManagerReview/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXE1hbmFnZXJSZXZpZXdcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/ManagerReview/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXE1hbmFnZXJSZXZpZXdcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/OrderDetail/ListChecked.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXE9yZGVyRGV0YWlsXExpc3RDaGVja2VkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/OrderDetail/ListUncheck.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXE9yZGVyRGV0YWlsXExpc3RVbmNoZWNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFByb2R1Y3RcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFByb2R1Y3RcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFByb2R1Y3RcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFByb2R1Y3RcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/ProviderReport/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFByb3ZpZGVyUmVwb3J0XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/ProviderReview/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFByb3ZpZGVyUmV2aWV3XExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Provider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFByb3ZpZGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Provider/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFByb3ZpZGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Provider/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFByb3ZpZGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Provider/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFByb3ZpZGVyXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Client/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ2xpZW50XFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-tjmhajg5wi
+
+[C:/Users/M/Desktop/錄影/FinalProject (0329修正)/FinalProject/Areas/Server/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2VydmVyXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-z93dypsfiy
